@@ -1,2 +1,8 @@
-alert("hey this is a test ya dingus");
+// strike through functionality
+$("li").click(function(){
+    $(this).toggleClass("done")
+})
 
+// deleting
+
+// adding

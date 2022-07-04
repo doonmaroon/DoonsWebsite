@@ -1,3 +1,4 @@
-p {
-    color: blue;
+.done {
+    color: green;
+    text-decoration: line-through;
 }
